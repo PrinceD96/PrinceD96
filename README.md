@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Seedstages, a React Native app that connects students with companies.
+- 🔭 I’m currently working on Seedstages, a React Native app(iOS or Android) that connects students and companies through internships.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
