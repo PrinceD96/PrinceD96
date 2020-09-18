@@ -4,7 +4,7 @@
 - 🌱 &nbsp;I’m currently learning Python and object oriented programming.
 - 💬 &nbsp;Ask me about Javascript.
 - 😄 &nbsp;Pronouns: He/his.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96)
+- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
