@@ -5,7 +5,7 @@
 - 💬 &nbsp;Ask me about Javascript.
 - 😄 &nbsp;Pronouns: He/his.
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96).
-- 💼 &nbsp; See my [portfolio](https://www.danielmoraless.com)
+- 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
