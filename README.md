@@ -6,6 +6,9 @@
 - 😄 &nbsp;Pronouns: He/his.
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96).
 - 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrinceD96&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
