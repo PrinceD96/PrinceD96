@@ -7,7 +7,7 @@
 - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96).
 - 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrinceD96&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrinceD96&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 👯 I’m looking to collaborate on ...
