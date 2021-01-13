@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 &nbsp;See my most recent project: Seedstages, a React Native app([iOS](https://apps.apple.com/us/app/seedstages/id1522370422) or [Android](https://play.google.com/store/apps/details?id=com.seedstages.seedstages&hl=en_US)) that connects students and companies through internships.
+- 🔭 &nbsp;See my most recent work: Seedstages, a React Native app([iOS](https://apps.apple.com/us/app/seedstages/id1522370422) or [Android](https://play.google.com/store/apps/details?id=com.seedstages.seedstages&hl=en_US)) that connects students and companies through internships.
 - 🌱 &nbsp;I’m currently sharpening my object oriented programming skills.
 - 💬 &nbsp;Ask me about Javascript and functional programming.
 - 😄 &nbsp;Pronouns: He/his.
