@@ -5,7 +5,7 @@
 - 💬 &nbsp;Ask me about Javascript and functional programming!
 - 😄 &nbsp;Pronouns: He/his.
 <!-- - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96). -->
-- 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com)
+<!-- - 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com) -->
 - 👯 &nbsp;I value career growth and company culture. Salary is secondary. 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PrinceD96&hide=stars&show_icons=true&count_private=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
