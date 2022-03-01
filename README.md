@@ -4,7 +4,7 @@
 - 🌱 &nbsp;I’m currently working at AT&T and this has affected my contributions to open source.
 - 💬 &nbsp;Ask me about Javascript and functional programming!
 - 😄 &nbsp;Pronouns: He/his.
-- 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96).
+<!-- - 📫 &nbsp;How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-morales-s96/), [Twitter](https://twitter.com/Princedany96). -->
 - 💼 &nbsp;See my [portfolio](https://www.danielmoraless.com)
 - 👯 &nbsp;I value career growth and company culture. Salary is secondary. 
 
