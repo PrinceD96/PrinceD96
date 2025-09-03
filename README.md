@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 &nbsp;I’m currently working at Capital One and this has affected my contributions to open source.
+- 🌱 &nbsp;Building awesome stuff.
 - 🔧 &nbsp;I'm a Javascript expert. Currently learning Rust
 - 😄 &nbsp;Pronouns: He/his.
 - 📫 &nbsp;How to reach me: <a href="https://www.linkedin.com/in/daniel-morales-s96/" target="_blank">LinkedIn</a>, <a href="https://twitter.com/Princedany96" target="_blank">Twitter</a>.
